@@ -28,7 +28,7 @@ My interests lie at the interface between Probability Theory, Analysis, and Stat
 
 **Research Interests:** Interacting Particle Processes, Mixing Times, Hydrodynamic Limits, and Fluctuations.
 
-You can find my CV [here](assets/pdf/cv_website.pdf).
+You can find my CV [here](assets/pdf/CV_Ons_Rameh.pdf).
 
 **Contact:** orameh [at] dma.ens.fr  
 
