@@ -38,12 +38,17 @@ You can find my CV [here](assets/pdf/cv_website.pdf).
 
 ---
 
+<br>
+<br>
+
 ## Papers
 ---
 
 **Cutoff phenomenon for asymmetric zero range process with monotone rates.**  
 [ArXiv link](https://arxiv.org/abs/2410.05220)
 
+
+<br>
 
 
 ## Research Talks
@@ -106,6 +111,9 @@ You can find my CV [here](assets/pdf/cv_website.pdf).
 - [PhD Students Seminar](https://irma.math.unistra.fr/seminaires/seminaire-doctorants-2023.html)  
   April 20, 2023, Université de Strasbourg, France  
 
+
+
+<br>
 
 
 ## Teaching and Supervision
