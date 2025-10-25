@@ -23,7 +23,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-
 I am a PhD student in Probability Theory under the supervision of [Max Fathi](https://www.normalesup.org/~mfathi/).  
 My interests lie at the interface between Probability Theory, Analysis, and Statistical Physics.
 
@@ -40,13 +39,15 @@ You can find my CV [here](assets/pdf/cv_website.pdf).
 ---
 
 ## Papers
+---
 
 **Cutoff phenomenon for asymmetric zero range process with monotone rates.**  
 [ArXiv link](https://arxiv.org/abs/2410.05220)
 
----
+
 
 ## Research Talks
+---
 
 ### 2025
 
@@ -105,9 +106,10 @@ You can find my CV [here](assets/pdf/cv_website.pdf).
 - [PhD Students Seminar](https://irma.math.unistra.fr/seminaires/seminaire-doctorants-2023.html)  
   April 20, 2023, Université de Strasbourg, France  
 
----
+
 
 ## Teaching and Supervision
+---
 
 ### 2024–2026
 - **Mathematical Statistics** (Master course, ENS-PSL). Teaching Assistant.  
