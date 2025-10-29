@@ -7,8 +7,7 @@ first_name: Ons
 middle_name: 
 last_name: RAMEH
 contact_note: 
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-   Personal Webpage of Ons RAMEH
+description: >  Personal Webpage of Ons RAMEH
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
@@ -85,7 +84,7 @@ bing_site_verification: # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: al-folio # blog_name will be displayed in your blog page
-blog_description: a simple whitespace theme for academics
+blog_description: # a simple whitespace theme for academics
 permalink: /blog/:year/:title/
 lsi: false # produce an index for related posts
 
