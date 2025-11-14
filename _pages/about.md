@@ -45,7 +45,7 @@ You can find my CV [here](assets/pdf/CV_Ons_Rameh.pdf).
 ---
 
 **Cutoff phenomenon for asymmetric zero range process with monotone rates.**  
-[ArXiv link](https://arxiv.org/abs/2410.05220)
+[ArXiv link](https://arxiv.org/abs/2410.05220), accepted for publication in \emph{Annals of Probability}.
 
 
 <br>
